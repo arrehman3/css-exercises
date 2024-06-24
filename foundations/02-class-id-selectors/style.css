@@ -1,0 +1,18 @@
+.no1{
+    font-family: Verdana,"DejaVu Sans", sans-serif;
+    background-color: rgb(210, 152, 152);
+  
+}
+/* different solutions possible is my solution was to keep the same class and give a different id */
+#different{
+    font-size: 24px;
+}
+#no2{
+    color: #0000ff;
+    font-size: 36px;
+}
+#no4{
+    background-color: rgb(167, 220, 154);
+    font-size: 24px;
+    font-weight: bold;
+}
